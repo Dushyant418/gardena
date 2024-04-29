@@ -14,7 +14,6 @@ $('.slider2_container').slick({
                 slidesToShow: 1,
                 slidesToScroll: 1,
                 infinite: true,
-                dots: false
             }
         },
         {
@@ -22,7 +21,6 @@ $('.slider2_container').slick({
             settings: {
                 slidesToShow: 1,
                 slidesToScroll: 1,
-                dots: false
 
             }
         },
@@ -31,7 +29,6 @@ $('.slider2_container').slick({
             settings: {
                 slidesToShow: 1,
                 slidesToScroll: 1,
-                dots: false
 
             }
         }
